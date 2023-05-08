@@ -1,7 +1,6 @@
 {
   "host": "https://meow-arras-thingy.glitch.me/",
   "servesStatic": true,
-  "port": 3000,
   "networkUpdateFactor": 24,
   "socketWarningLimit": 5,
   "networkFrontlog": 1,
